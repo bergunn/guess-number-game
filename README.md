@@ -1,7 +1,7 @@
 # Guess the number game
--A simple Python terminal game where the player has to guess a randomly chosen number between 1 and 50. 
--The game provides hints if the guess is too high or too low. 
--If player wants to win this game, they have to guess the number correctly in 6 attemtpts.
+A simple Python terminal game where the player has to guess a randomly chosen number between 1 and 50. 
+The game provides hints if the guess is too high or too low. 
+If player wants to win this game, they have to guess the number correctly in 6 attemtpts.
 ## Features
 - Random number generation using `random.randint()`
 - Input validation
